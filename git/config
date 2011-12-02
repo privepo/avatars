@@ -8,3 +8,5 @@
 	loosecompression = 0
 [pack]
 	packSizeLimit = 4m
+[gc]
+	auto = 0
