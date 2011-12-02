@@ -1,0 +1,33 @@
+AVATARS [GIT] commit 2fab0b85: Add avatars for afun, eotect and xrlfun.
+
+
+Path  : git
+Date  : 2011-07-28 18:26:14 +0800
+Author: Eotect Nahn
+Commit: 2fab0b85115a1d18df3b26c1fcee7f05e920b8c0
+
+    Add avatars for afun, eotect and xrlfun.
+
+
+
+ afun.png       |  Bin 0 -> 269141 bytes
+ afun_100.png   |  Bin 0 -> 21068 bytes
+ afun_200.jpg   |  Bin 0 -> 21996 bytes
+ afun_200.png   |  Bin 0 -> 79465 bytes
+ afun_300.png   |  Bin 0 -> 172916 bytes
+ afun_400.png   |  Bin 0 -> 312461 bytes
+ eotect_100.png |  Bin 0 -> 20469 bytes
+ eotect_200.png |  Bin 0 -> 74982 bytes
+ eotect_300.png |  Bin 0 -> 158714 bytes
+ eotect_400.png |  Bin 0 -> 266209 bytes
+ eotect_420.png |  Bin 0 -> 289920 bytes
+ xrlfun4.jpg    |  Bin 2571 -> 2571 bytes
+ xrlfun_100.png |  Bin 0 -> 9574 bytes
+ xrlfun_150.png |  Bin 0 -> 19119 bytes
+ xrlfun_200.png |  Bin 0 -> 28911 bytes
+ xrlfun_300.png |  Bin 0 -> 56192 bytes
+ xrlfun_400.png |  Bin 0 -> 81382 bytes
+ 17 files changed, 0 insertions(+), 0 deletions(-)
+
+================================================================================
+

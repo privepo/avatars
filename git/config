@@ -4,15 +4,7 @@
 	bare = true
 	logallrefupdates = true
 	ignorecase = true
-[branch "master"]
+	compression = 0
+	loosecompression = 0
 [pack]
 	packSizeLimit = 4m
-[remote "github"]
-	url = git@github.com:zprofiles/avatars.git
-	fetch = +refs/heads/*:refs/remotes/github/*
-[remote "gitorious"]
-	url = git@gitorious.org:zprofiles/avatars.git
-	fetch = +refs/heads/*:refs/remotes/gitorious/*
-[remote "sourceforge"]
-	url = ssh://eotect@zrepos.git.sourceforge.net/gitroot/zrepos/profiles/avatars
-	fetch = +refs/heads/*:refs/remotes/sourceforge/*
